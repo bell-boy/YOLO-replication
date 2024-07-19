@@ -1,0 +1,4 @@
+voc_data_2012_train/
+voc_data_2012_val/
+YOLO/
+.env
